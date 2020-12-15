@@ -227,7 +227,7 @@ call GoodWolfHL('iCursor', 'coal', 'tardis', 'none')
 call GoodWolfHL('Special', 'plain')
 
 " Comments are slightly brighter than folds, to make 'headers' easier to see.
-call GoodWolfHL('Comment',        'gravel', 'bg', 'none')
+call GoodWolfHL('Comment',        'gravel', 'bg', 'italic')
 call GoodWolfHL('Todo',           'snow',   'bg', 'bold')
 call GoodWolfHL('SpecialComment', 'snow',   'bg', 'bold')
 
